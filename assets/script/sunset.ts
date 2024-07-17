@@ -203,12 +203,12 @@ export default class sunset extends cc.Component {
         let finishTemp = false;
         for (let i = 0; i < iconBox.children.length; i++) {
             let icon = iconBox.children[i];
-            let tempNum = amuseControl.getRandomInt(1, 20);
+            let tempNum = amuseControl.getRandomInt(1, 19);
             amuseControl.amuseResUtil.loadSprite("head/" + "haed" + (tempNum), icon.getComponent(cc.Sprite));
             cc.Tween.stopAllByTarget(icon);
             cc.tween(icon).by(0.15, { y: -120 }).call(() => {
                 if (icon.y == -120) {
-                    let randomNum = amuseControl.getRandomInt(1, 20);
+                    let randomNum = amuseControl.getRandomInt(1, 19);
                     amuseControl.amuseResUtil.loadSprite("head/" + "haed" + (randomNum), icon.getComponent(cc.Sprite));
                     icon.y = 240
                 }

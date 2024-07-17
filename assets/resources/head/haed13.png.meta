@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "38d90bbf-b87a-4e1e-a58a-e724cd4cd802",
+  "uuid": "c0d026db-2dc6-4631-a9fa-4458d6d1fcfa",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -14,9 +14,9 @@
   "subMetas": {
     "haed13": {
       "ver": "1.0.6",
-      "uuid": "e61f486f-7d6e-477a-b236-5a4bc6aef750",
+      "uuid": "c02cb8b6-3078-425e-b79d-c976e1339c26",
       "importer": "sprite-frame",
-      "rawTextureUuid": "38d90bbf-b87a-4e1e-a58a-e724cd4cd802",
+      "rawTextureUuid": "c0d026db-2dc6-4631-a9fa-4458d6d1fcfa",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

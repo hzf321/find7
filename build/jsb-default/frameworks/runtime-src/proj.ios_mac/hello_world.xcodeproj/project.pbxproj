@@ -724,7 +724,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.hjunvdmciw.discoverer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dfvjf.ijsiov123;
 				PRODUCT_NAME = "Difference Discoverer";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
@@ -762,7 +762,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.hjunvdmciw.discoverer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dfvjf.ijsiov123;
 				PRODUCT_NAME = "Difference Discoverer";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;

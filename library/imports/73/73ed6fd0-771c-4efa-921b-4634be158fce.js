@@ -157,12 +157,12 @@ var sunset = /** @class */ (function (_super) {
         var finishTemp = false;
         var _loop_1 = function (i) {
             var icon = iconBox.children[i];
-            var tempNum = amuseControl_1.amuseControl.getRandomInt(1, 20);
+            var tempNum = amuseControl_1.amuseControl.getRandomInt(1, 19);
             amuseControl_1.amuseControl.amuseResUtil.loadSprite("head/" + "haed" + (tempNum), icon.getComponent(cc.Sprite));
             cc.Tween.stopAllByTarget(icon);
             cc.tween(icon).by(0.15, { y: -120 }).call(function () {
                 if (icon.y == -120) {
-                    var randomNum = amuseControl_1.amuseControl.getRandomInt(1, 20);
+                    var randomNum = amuseControl_1.amuseControl.getRandomInt(1, 19);
                     amuseControl_1.amuseControl.amuseResUtil.loadSprite("head/" + "haed" + (randomNum), icon.getComponent(cc.Sprite));
                     icon.y = 240;
                 }
