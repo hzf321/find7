@@ -5,8 +5,8 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 149,
-      "y": 93,
+      "x": 324,
+      "y": 164,
       "width": 1280,
       "height": 720,
       "layout": {
@@ -105,12 +105,13 @@
       ]
     },
     " common-asset-worker-worker": {},
-    "window-1721114818457": {}
+    "window-1721207843686": {},
+    " build-worker-worker": {}
   },
   "panels": {
     "builder": {
-      "x": 1105,
-      "y": 201,
+      "x": 618,
+      "y": 131,
       "width": 500,
       "height": 728
     }

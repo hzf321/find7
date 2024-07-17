@@ -4,31 +4,31 @@
   "mtimes": {
     "1ade1819-4666-41c0-90b7-713add03720d": {
       "assetMtime": 1715846992000,
-      "metaMtime": 1721114661670
+      "metaMtime": 1721207739930
     },
     "64829083-44f0-4184-9e41-b22907ddbca7": {
       "assetMtime": 1720772488000,
-      "metaMtime": 1721114661687
+      "metaMtime": 1721207739966
     },
     "a995e65c-37c2-4df6-a0c3-15d1ccafd2df": {
       "assetMtime": 1720772488000,
-      "metaMtime": 1721114661687
+      "metaMtime": 1721207739966
     },
     "94da9d01-212a-4f8f-9c91-6fbb429bef5d": {
       "assetMtime": 1720772554000,
-      "metaMtime": 1721114661681
+      "metaMtime": 1721207739946
     },
     "478920d9-6cd3-4c28-a382-135c18191e6b": {
       "assetMtime": 1720772554000,
-      "metaMtime": 1721114661681
+      "metaMtime": 1721207739946
     },
     "fd20afa7-4d67-4b83-85be-04e03d515025": {
       "assetMtime": 1720772498000,
-      "metaMtime": 1721114661684
+      "metaMtime": 1721207739959
     },
     "25755345-524f-4636-a244-674d59d892a3": {
       "assetMtime": 1720772498000,
-      "metaMtime": 1721114661684
+      "metaMtime": 1721207739959
     }
   },
   "result": {
@@ -64,7 +64,7 @@
             "name": "sophia_logo",
             "uuid": "64829083-44f0-4184-9e41-b22907ddbca7",
             "textureUuid": "a995e65c-37c2-4df6-a0c3-15d1ccafd2df",
-            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721114857924_image_0.png",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897776_image_0.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -88,7 +88,7 @@
             "name": "sophia_play",
             "uuid": "fd20afa7-4d67-4b83-85be-04e03d515025",
             "textureUuid": "25755345-524f-4636-a244-674d59d892a3",
-            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721114857924_image_2.png",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897777_image_2.png",
             "trim": {
               "x": 3,
               "y": 492,
@@ -111,7 +111,7 @@
             "name": "sophia_load",
             "uuid": "94da9d01-212a-4f8f-9c91-6fbb429bef5d",
             "textureUuid": "478920d9-6cd3-4c28-a382-135c18191e6b",
-            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721114857924_image_1.png",
+            "path": "/Users/aw/Desktop/find7/temp/trimImages/spritesheet_js_1721207897777_image_1.png",
             "trim": {
               "x": 3,
               "y": 696,

@@ -7,182 +7,182 @@
     "path": [
       {
         "centerPos": {
-          "x": -651,
-          "y": 367
+          "x": 254,
+          "y": 243
         },
         "startPos": {
-          "x": -579,
-          "y": 323
+          "x": 165,
+          "y": 304
         },
         "endPos": {
-          "x": -724,
-          "y": 412
+          "x": 342,
+          "y": 181
+        },
+        "blockSize": {
+          "wid": 177,
+          "hei": 123
+        }
+      },
+      {
+        "centerPos": {
+          "x": 541,
+          "y": -157
+        },
+        "startPos": {
+          "x": 477,
+          "y": -107
+        },
+        "endPos": {
+          "x": 604,
+          "y": -207
+        },
+        "blockSize": {
+          "wid": 127,
+          "hei": 99
+        }
+      },
+      {
+        "centerPos": {
+          "x": 188,
+          "y": -303
+        },
+        "startPos": {
+          "x": 102,
+          "y": -230
+        },
+        "endPos": {
+          "x": 273,
+          "y": -375
+        },
+        "blockSize": {
+          "wid": 171,
+          "hei": 145
+        }
+      },
+      {
+        "centerPos": {
+          "x": -284,
+          "y": -408
+        },
+        "startPos": {
+          "x": -393,
+          "y": -359
+        },
+        "endPos": {
+          "x": -175,
+          "y": -458
+        },
+        "blockSize": {
+          "wid": 218,
+          "hei": 98
+        }
+      },
+      {
+        "centerPos": {
+          "x": -157,
+          "y": -154
+        },
+        "startPos": {
+          "x": -216,
+          "y": -91
+        },
+        "endPos": {
+          "x": -97,
+          "y": -217
+        },
+        "blockSize": {
+          "wid": 118,
+          "hei": 125
+        }
+      },
+      {
+        "centerPos": {
+          "x": -282,
+          "y": -29
+        },
+        "startPos": {
+          "x": -340,
+          "y": 32
+        },
+        "endPos": {
+          "x": -225,
+          "y": -90
+        },
+        "blockSize": {
+          "wid": 115,
+          "hei": 121
+        }
+      },
+      {
+        "centerPos": {
+          "x": -439,
+          "y": 95
+        },
+        "startPos": {
+          "x": -506,
+          "y": 152
+        },
+        "endPos": {
+          "x": -373,
+          "y": 39
+        },
+        "blockSize": {
+          "wid": 133,
+          "hei": 112
+        }
+      },
+      {
+        "centerPos": {
+          "x": -549,
+          "y": 295
+        },
+        "startPos": {
+          "x": -484,
+          "y": 234
+        },
+        "endPos": {
+          "x": -614,
+          "y": 355
+        },
+        "blockSize": {
+          "wid": 130,
+          "hei": 121
+        }
+      },
+      {
+        "centerPos": {
+          "x": -189,
+          "y": 132
+        },
+        "startPos": {
+          "x": -261,
+          "y": 194
+        },
+        "endPos": {
+          "x": -116,
+          "y": 70
         },
         "blockSize": {
           "wid": 145,
-          "hei": 89
+          "hei": 124
         }
       },
       {
         "centerPos": {
-          "x": -674,
-          "y": -76
+          "x": 424,
+          "y": 397
         },
         "startPos": {
-          "x": -723,
-          "y": 28
+          "x": 514,
+          "y": 339
         },
         "endPos": {
-          "x": -625,
-          "y": -180
+          "x": 335,
+          "y": 455
         },
         "blockSize": {
-          "wid": 98,
-          "hei": 208
-        }
-      },
-      {
-        "centerPos": {
-          "x": -478,
-          "y": -4
-        },
-        "startPos": {
-          "x": -565,
-          "y": 48
-        },
-        "endPos": {
-          "x": -391,
-          "y": -56
-        },
-        "blockSize": {
-          "wid": 174,
-          "hei": 104
-        }
-      },
-      {
-        "centerPos": {
-          "x": -380,
-          "y": -256
-        },
-        "startPos": {
-          "x": -448,
-          "y": -182
-        },
-        "endPos": {
-          "x": -313,
-          "y": -329
-        },
-        "blockSize": {
-          "wid": 135,
-          "hei": 147
-        }
-      },
-      {
-        "centerPos": {
-          "x": 0,
-          "y": -347
-        },
-        "startPos": {
-          "x": -105,
-          "y": -284
-        },
-        "endPos": {
-          "x": 104,
-          "y": -410
-        },
-        "blockSize": {
-          "wid": 209,
-          "hei": 126
-        }
-      },
-      {
-        "centerPos": {
-          "x": 433,
-          "y": -71
-        },
-        "startPos": {
-          "x": 300,
-          "y": 25
-        },
-        "endPos": {
-          "x": 566,
-          "y": -167
-        },
-        "blockSize": {
-          "wid": 266,
-          "hei": 192
-        }
-      },
-      {
-        "centerPos": {
-          "x": 76,
-          "y": -35
-        },
-        "startPos": {
-          "x": -12,
-          "y": 43
-        },
-        "endPos": {
-          "x": 163,
-          "y": -112
-        },
-        "blockSize": {
-          "wid": 175,
-          "hei": 155
-        }
-      },
-      {
-        "centerPos": {
-          "x": -78,
-          "y": 344
-        },
-        "startPos": {
-          "x": -159,
-          "y": 416
-        },
-        "endPos": {
-          "x": 2,
-          "y": 272
-        },
-        "blockSize": {
-          "wid": 161,
-          "hei": 144
-        }
-      },
-      {
-        "centerPos": {
-          "x": 658,
-          "y": 354
-        },
-        "startPos": {
-          "x": 589,
-          "y": 415
-        },
-        "endPos": {
-          "x": 726,
-          "y": 293
-        },
-        "blockSize": {
-          "wid": 137,
-          "hei": 122
-        }
-      },
-      {
-        "centerPos": {
-          "x": 664,
-          "y": 63
-        },
-        "startPos": {
-          "x": 604,
-          "y": 170
-        },
-        "endPos": {
-          "x": 724,
-          "y": -44
-        },
-        "blockSize": {
-          "wid": 120,
-          "hei": 214
+          "wid": 178,
+          "hei": 115
         }
       }
     ]
